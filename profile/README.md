@@ -4,9 +4,9 @@ SNAS is the students body of Department of Ship Technology, CUSAT. We aim at imp
 Our mission is to provide open source tools and softwares in the field naval architecture
 Naval Architecture being one of the oldest discipline of scinece has evolved significantly since its inception but the method and procudure are mostly yet to be digitilase and the digitalise contents are not open to public
 ## Usefull Resources 
-https://snas.in/
-https://www.youtube.com/channel/UCmjSqjf1kItZMoICEXPv65g
-https://oceanodyssey.snas.in/
+- https://snas.in/
+- https://www.youtube.com/channel/UCmjSqjf1kItZMoICEXPv65g
+- https://oceanodyssey.snas.in/
 
 
 <!--
